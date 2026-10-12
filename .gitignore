@@ -1,0 +1,9 @@
+# Made from the game (disassembly of its code, dumps of its data tables, play logs). Never commit.
+research/
+
+# Build output. The plugin is built into the game folder; nothing binary belongs in the repository.
+Probe/bin/
+*.dll
+*.pdb
+*.zip
+*.rsp
